@@ -1,6 +1,6 @@
 # Qu::Nsq
 
-TODO: Write a gem description
+NSQ backend for [Qu](https://github.com/bkeepers/qu)
 
 ## Installation
 
